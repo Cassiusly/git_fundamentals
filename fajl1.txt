@@ -1,0 +1,13 @@
+Zadatak
+Kreirati novi repozitorijum na github-u pod nazivom git_fundamentals
+Kreirati novi folder u github folderu na racunaru, gde se nalazi i prvobitni folder. Struktura folder treba da bude kao na slici 
+
+Izvrsiti komande za inicijalizaciju projekta (one sto se dobiju pri kreirranju)
+Vodite racuna da ste izabrali SSH
+Otvorite u InteliJ-u git_fundamentals folder 
+Kreirajte novi fajl sa nazivom fajl1.txt i upiste neki proizvoljan tekst u njega
+Zatim pomocu git komandi izvrsiti sledece akcije:
+Prebaciti novi fajl u staging area
+Kreirati commit sa porukom Domaci zadatak 4 - add first file
+Pushovati na github
+Proveriti da li na github-u postoji novi commi
